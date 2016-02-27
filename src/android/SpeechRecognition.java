@@ -1,4 +1,4 @@
-package org.apache.cordova.speech;
+package org.apache.cordova.speechAsephirot;
 
 import java.util.ArrayList;
 

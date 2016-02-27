@@ -2,7 +2,7 @@
 <plugin xmlns="http://www.phonegap.com/ns/plugins/1.0"
            id="org.apache.cordova.speech.speechrecognitionAsephirot"
       version="0.1.1">
-    <name>SpeechRecognition</name>
+    <name>speechrecognitionAsephirot</name>
     <description>Cordova Speech Recognition Plugin</description>
     <license>Apache</license>
     <keywords>cordova,speech,recognition</keywords>
