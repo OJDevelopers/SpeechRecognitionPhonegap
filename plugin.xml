@@ -44,7 +44,7 @@
     <platform name="android">
         <config-file target="res/xml/config.xml" parent="/*">
             <feature name="SpeechRecognition">
-                <param name="android-package" value="org.apache.cordova.speech.SpeechRecognition"/>
+                <param name="android-package" value="org.apache.cordova.speech.speechrecognitionPhonegap"/>
             </feature>
         </config-file>
         <config-file target="AndroidManifest.xml" parent="/*">
