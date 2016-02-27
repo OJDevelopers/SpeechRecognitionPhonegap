@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugin xmlns="http://www.phonegap.com/ns/plugins/1.0"
-           id="org.apache.cordova.speech.speechrecognitionPhonegap"
+           id="org.apache.cordova.speech.speechrecognitionAsephirot"
       version="0.1.1">
     <name>SpeechRecognition</name>
     <description>Cordova Speech Recognition Plugin</description>
@@ -44,7 +44,7 @@
     <platform name="android">
         <config-file target="res/xml/config.xml" parent="/*">
             <feature name="SpeechRecognition">
-                <param name="android-package" value="org.apache.cordova.speech.speechrecognitionPhonegap"/>
+                <param name="android-package" value="org.apache.cordova.speech.speechrecognitionAsephirot"/>
             </feature>
         </config-file>
         <config-file target="AndroidManifest.xml" parent="/*">
